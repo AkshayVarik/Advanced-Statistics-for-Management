@@ -1,0 +1,5 @@
+The code can be executed directly as its self sufficient.
+Note some variables were named the same as part of analysis and so same variable names might be used multiple times in the document.
+
+Load the libraries and start executing the code from line 100 where I load the cleaned data which I will be using.
+Lines 94, 95, 96 basically store the originally data set into cleaned versions. 
